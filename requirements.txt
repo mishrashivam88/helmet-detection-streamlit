@@ -5,6 +5,6 @@ torchaudio==2.0.2+cpu
 opencv-python-headless==4.8.0.76
 numpy==1.24.4
 Pillow==9.5.0
-pyyaml
 matplotlib
+pyyaml
 --extra-index-url https://download.pytorch.org/whl/cpu
