@@ -14,11 +14,11 @@ setup(
     name="safety-helmet-detection",
     version="1.0.0",
     author="Intel AI4MFG Team",
-    author_email="arbazansari78692s@gmail.com",
+    author_email="mishrashivam192004@gmail.com",
     description="A computer vision project for detecting safety helmets using YOLOv8 - Developed by five students during the Intel AI4MFG Internship Program",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/arbazansari/helmet-detection-ai",
+    url="https://github.com/mishrashivam88/helmet-detection-streamlit.git",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
