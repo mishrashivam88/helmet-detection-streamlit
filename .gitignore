@@ -177,7 +177,7 @@ annotations/
 *.jpeg
 *.png
 *.xml
-*.txt
+
 
 # Model files (usually very large)
 models/
